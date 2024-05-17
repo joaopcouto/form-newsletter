@@ -1,3 +1,8 @@
+![Untitled](https://github.com/joaopcouto/form-newsletter/assets/129805937/4065f445-2aeb-493b-9872-9e73bed9a377)
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
